@@ -1,4 +1,4 @@
-# heart-disease-prediction
+# Heart Disease Prediction (Cleveland UCI)
 
 Heart disease remains a leading cause of mortality worldwide. This project applies a supervised learning approach to predict heart disease presence based on key clinical features. The model demonstrated high predictive performance with an emphasis on balanced evaluation metrics, aiming to support early detection efforts.
 
